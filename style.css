@@ -1,7 +1,8 @@
 nav {
-background-color: #abffff;
+background-color: #c9fffe;
 }
 css
+
 button
 .btn {
  padding: 10px 20px;
@@ -170,4 +171,6 @@ button
 #drawer_input:checked ~ .nav_content {
   left: 0;/* メニューを画面に入れる */
 }
-
+li {
+  list-style: none;
+}
